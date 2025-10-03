@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: mycont
-        image: shaikmustafa/mygame
+        image: shaikmustafa/paytm:bus
         ports:
         - containerPort: 80
